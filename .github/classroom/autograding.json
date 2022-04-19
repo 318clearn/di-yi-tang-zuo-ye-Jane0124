@@ -1,5 +1,14 @@
-#include <stdio.h>
-int main{
-  printf("Hello World");
-  return 0
+{
+  "tests": [
+    {
+      "name": "first",
+      "setup": "",
+      "run": "11",
+      "input": "1",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
 }
